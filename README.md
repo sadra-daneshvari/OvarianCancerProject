@@ -1,6 +1,6 @@
 # OvarianCancerProject
 This repository contains codes and data related to our project entitled:
-Identification of hub genes and key signaling pathways of ascites-derived ovarian cancer stem cells from different origins and associated with clinicopathological features.
+Hub genes in fused ascites-derived ovarian cancer stem cells: Implications for prognosis and therapy
 
 The OvarianCancerProject.zip file contains:
 1. 'data' file containing the raw data about hub genes and their cutoff points and clinical significances.
