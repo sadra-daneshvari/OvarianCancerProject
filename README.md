@@ -1,7 +1,7 @@
 # OvarianCancerProject
 This repository contains codes and data related to our project entitled:
 
-Inflammatory pathways and immune fusion: transcriptomic profiling of ascites-derived ovarian cancer stem cells unveils potential therapeutic targets
+Ascites-derived dual positive EpCAM/CD45 ovarian cancer stem cells unveil potential therapeutic targets
 
 Three uploaded files contain:
 1. 'data' zip file containing the raw data about hub genes and their cutoff points and clinical significances.
